@@ -4,7 +4,48 @@ Inventory and Warehouse Management System built with Django REST Framework
 
 A **REST API for managing products, multi-warehouse stock, purchasing, sales and inter-warehouse transfers.** Built with **Django** and **Django REST Framework**, secured with **JWT authentication**, and documented with **Swagger / OpenAPI**. 🚀
 
----
+
+## 🚀 Features
+
+- 🏢 Multiple warehouse management
+- 📦 Product and category management
+- 📊 Inventory management
+- 📥 Stock IN / OUT
+- 🛒 Purchase Order management
+- 🧾 Sales Order management
+- 🔒 JWT authentication
+- 👥 Role-based access control
+- 📌 Stock reservation
+- 🔄 Warehouse stock transfers
+- 📍 Warehouse locations / bins
+- 🔁 Location-based stock transfers
+- 🛠️ Stock adjustments
+- 📦 Partial purchase receiving
+- 🚚 Partial sales fulfillment
+- ↩️ Sales returns
+- ⚠️ Low-stock alerts
+- 📈 Inventory reports
+- 🔎 Search, filtering, ordering and pagination
+- 📝 Inventory history / stock movements
+- 🛡️ Audit trail
+- 🏷️ Barcode support
+- 🔳 QR code generation
+- 📚 Swagger API documentation
+
+## 🛠️ Tech Stack
+
+- Python
+- Django
+- Django REST Framework
+- PostgreSQL / SQLite
+- JWT Authentication
+- Simple JWT
+- Django Filter
+- drf-spectacular / Swagger
+- Git & GitHub
+
+
+
 
 ## 📑 Table of Contents
 
